@@ -1,6 +1,9 @@
 Машинное обучение и анализ данных
 ----
 
+ДЗ:
+- ```Classification_Clustering_Regression_test```
+
 Полезные ссылки:
 
 [Типичные распределения вероятности: шпаргалка data scientist-а](https://habr.com/ru/articles/331060/)
